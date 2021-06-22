@@ -8,7 +8,7 @@ ROS packages that can be used to plan and execute motion trajectories for a robo
 -	or ubuntu 20.04 or you can download ubuntu mate 18.04 https://ubuntu-mate.org/download/amd64/bionic/ .
 # 3-	Ros:
 -	Now you can open the terminal and start to download ros http://wiki.ros.org/melodic/Installation/Ubuntu
-# •	Setup your sources. list By enter this step in the terminal .
+# •	Setup your sources. list By enter this step in the terminal.
 ``` sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list' ```
 
 # •	Set up your keys By enter this step in the terminal:
