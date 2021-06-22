@@ -131,7 +131,8 @@ o	$ roslaunch moveit_pkg demo_gazebo.launch
 - 	https://www.theconstructsim.com/rds-ros-development-studio/ 
 ![image](https://user-images.githubusercontent.com/86170422/123003542-010eed80-d3bc-11eb-933e-3af6b2b7d2e1.png)
 
-![image](https://user-images.githubusercontent.com/86170422/123003595-14ba5400-d3bc-11eb-810a-bb9d7b985c17.png)
+![image](https://user-images.githubusercontent.com/86170422/123003766-5e0aa380-d3bc-11eb-9f4c-4e48e86b505e.png)
+
 
 
 
